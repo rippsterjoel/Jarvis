@@ -14,11 +14,11 @@
 <a href="#"><img title="RIPPSTERJOEL" src="https://img.shields.io/badge/RIPPSTERJOEL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/rippster-joel"><img title="Author" src="https://img.shields.io/badge/Author-rippster-joel/Jarvis?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu.git"><img title="Author" src="https://img.shields.io/badge/Author-rippster-joel/Jarvis?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/rippster-joel">rippster-joel</a> to make it public
+Project created by <a href="https://github.com/ameer-kallumthodi/pikachu.git">rippster-joel</a> to make it public
     <br>
        | © |
         Reserved |
@@ -70,7 +70,7 @@ Click Jarvis logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/rippster-joel/Jarvis.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git/Jarvis.git)
      </div>
 <br>
 <br >
@@ -90,7 +90,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/rippster-joel/Jarvis
+$ git clone https://github.com/ameer-kallumthodi/pikachu.git/Jarvis
 $ cd Jarvis
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -100,7 +100,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/rippster-joel/Jarvis
+$ git clone https://github.com/ameer-kallumthodi/pikachu.git/Jarvis
 $ cd Jarvis
 $ chmod +x *
 $ npm i
@@ -121,9 +121,9 @@ By establishing the Jarvis, you are deemed to have accepted these responsibiliti
 ## Developers
   <div align="center">
     
-  [![rippster-joel](https://github.com/rippster-joel.png?size=100)](https://github.com/rippster-joel) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![rippster-joel](https://github.com/ameer-kallumthodi/pikachu.git.png?size=100)](https://github.com/ameer-kallumthodi/pikachu.git) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Rippster Joel](https://github.com/rippster-joel) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Rippster Joel](https://github.com/ameer-kallumthodi/pikachu.git) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
